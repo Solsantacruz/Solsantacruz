@@ -2,6 +2,8 @@
 
 ![20230819_0322071](https://github.com/Solsantacruz/Solsantacruz/assets/94255291/df3cc5d1-79a6-4b7a-9b57-f5c32b8c79fe)
 
+<h2> 👋 Welcome to my corner on GitHub! Fullstack Developer exploring the fascinating world of technology. </h2>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/elianasoledadsantacruztorres" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -46,6 +48,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
