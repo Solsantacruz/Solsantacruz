@@ -10,9 +10,9 @@
 ``` js
 const eliana = {
   pronouns: "she" | "her",
-  code: [JavaScript, React,
+  code: [JavaScript, HTML, CSS],
+  tools: [React,
 Redux, Express, Node.js],
-  tools: [HTML, CSS],
   challenge: "I am focused on expanding
  my expertise in React and Node.js",
   aboutMe: "Passionate about frontend and
