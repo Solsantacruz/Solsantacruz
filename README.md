@@ -11,10 +11,12 @@
 const eliana = {
   pronouns: "she" | "her",
   code: [JavaScript, HTML, CSS],
-  tools: [React,
-Redux, Express, Node.js],
-  challenge: "I am focused on expanding
- my expertise in React and Node.js",
+  tools: [React, Redux, Express, Node.js],
+  challenge: "Currently, I'm dedicated to
+expanding my expertise in technologies I
+already master. Looking ahead, I'm also
+excited to explore new technologies and
+broaden my skill set.",
   aboutMe: "Passionate about frontend and
 backend development,
 I am dedicated to creating functional and
