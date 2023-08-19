@@ -2,8 +2,31 @@
 
 ![20230819_0322071](https://github.com/Solsantacruz/Solsantacruz/assets/94255291/df3cc5d1-79a6-4b7a-9b57-f5c32b8c79fe)
 
+<p align="center">
+<a href="https://www.linkedin.com/in/elianasoledadsantacruztorres" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 
+``` js
+const eliana = {
+  pronouns: "she" | "her",
+  code: [JavaScript, React,
+Redux, Express, Node.js],
+  tools: [HTML, CSS],
+  challenge: "I am focused on expanding
+ my expertise in React and Node.js",
+  aboutMe: "Passionate about frontend and
+backend development,
+I am dedicated to creating functional and
+appealing web applications. My skills range
+from JavaScript to React, Redux, Express,
+and Node.js, allowing me to build comprehensive and dynamic projects. As
+a constant learner, I embrace challenges
+and enjoy crafting solutions that contribute to the user experience.",
+  connect: "Let's connect and collaborate
+on exciting projects!
+}
+```
 
 
 
